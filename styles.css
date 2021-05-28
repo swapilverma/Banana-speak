@@ -42,7 +42,6 @@ textarea {
 button {
     display: block;
     font-family: 'Tillana', cursive;
-    /* text-align: center; */
     background-color: #FCD34D;
     font-size: large;
     padding: 1rem 0.5rem;
@@ -56,7 +55,6 @@ button {
 #output {
     border: 1px solid black;
     height: 18vh;
-    /* width: 80%; */
     padding: 1rem, 0rem;
     max-width: 600px;
     margin: auto;

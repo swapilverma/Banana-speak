@@ -1,0 +1,27 @@
+<style>
+
+:root{
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@400;600&display=swap');
+
+body{
+    font-family: 'Tillana', cursive;
+   
+}
+textarea {
+    width: 60%;
+    height: 15vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output {
+    border: 1px solid black;
+    height: 15vh;
+    width: 60%;
+    margin: 1rem;
+    padding: 1rem;
+}
+</style>

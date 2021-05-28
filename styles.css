@@ -6,21 +6,23 @@
 }
 
 
-body{
+body {
     font-family: 'Tillana', cursive;
     margin: 0;
-   
+
 }
-nav{
+
+nav {
     display: block;
     text-align: center;
-    background-color: #FCD34D ;
+    background-color: #FCD34D;
     font-size: 120%;
     padding: 0.5rem 0rem;
     margin: 0;
-    
+
 }
-div{
+
+div {
     max-width: 600px;
     margin: auto;
 }
@@ -32,52 +34,53 @@ textarea {
     display: block;
     padding: 0.5rem 0rem;
     font-family: inherit;
+    font-size: large;
     max-width: 600px;
     margin: auto;
 }
 
-button{
+button {
     display: block;
     font-family: 'Tillana', cursive;
     /* text-align: center; */
     background-color: #FCD34D;
     font-size: large;
-    padding: 1rem 0rem;
+    padding: 1rem 0.5rem;
     max-width: 600px;
+    border-radius: 0.5rem;
     margin: auto;
-    
-   
+
+
 }
 
 #output {
     border: 1px solid black;
     height: 18vh;
     /* width: 80%; */
-    padding: 1rem,0rem ;
+    padding: 1rem, 0rem;
     max-width: 600px;
-    margin: auto ;
+    margin: auto;
 
 }
 
-footer{
+footer {
     position: fixed;
     width: 100%;
     display: block;
     text-align: center;
-    background-color: #FCD34D ;
+    background-color: #FCD34D;
     padding: 0.5rem 0rem 0rem 0rem;
     margin: 0rem 0rem;
 }
-.footer-text{
+
+.footer-text {
     padding: 0.5rem 0rem;
     max-width: 600px;
     margin: auto;
     border: none;
 }
 
-h2{
+h2 {
     margin: 0;
     padding: 0rem 0rem;
 }
-
-
